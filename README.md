@@ -6,8 +6,8 @@
 2. [Why NLP? What is the benefits?](#why)
 3. [Main uses of NLP](#uses)
 4. [Recommendation of papers on the use of NLP](#papers)
-5. [Best programming Language] (#programming)
-6. [Roadmap]
+5. [Best programming Language](#programming)
+6. [Roadmap](#roadmap)
 
 
 <a name="what"></a>
