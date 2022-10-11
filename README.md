@@ -8,7 +8,7 @@
 4. [Recommendation of papers on the use of NLP](#papers)
 5. [Best programming Language](#programming)
 6. [Roadmap](#roadmap)
-7. [Databases for pratical Hands-on projects](#databases)
+7. [Open Datasets for pratical Hands-on projects](#databases)
 
 
 <a name="what"></a>
@@ -65,8 +65,30 @@ Popular libraries in python for you learn:
 
 <img src="https://github.com/lauraDamacenoAlmeida/roadmap-for-NLP/blob/main/roadmap.png" width=800px>
 
+<a name="databases"></a>
+## :keyboard: 7. Open Datasets for pratical Hands-on projects
+
+### General
+* [Kaggle](http://kaggle.com)
+* [Enron Dataset](https://www.cs.cmu.edu/~./enron/)
+* [Recommender Systems Datasets](https://cseweb.ucsd.edu//~jmcauley/datasets.html)
+* [Project Gutenberg](https://www.gutenberg.org)
+
+### Sentiment Analysis
+* [Yelp Reviews](https://www.yelp.com/dataset)
+* [Dictionaries for Movies and Finance](https://github.com/nproellochs/SentimentDictionaries)
+* [OpinRank Dataset](http://kavita-ganesan.com/entity-ranking-data/#.Y0WJmS_5RmD)
+
+### Text
+* [20 Newsgroups](http://qwone.com/~jason/20Newsgroups/)
+* [The WikiQA Corpus](https://www.microsoft.com/en-us/download/details.aspx?id=52419&from=http%3A%2F%2Fresearch.microsoft.com%2Fapps%2Fmobile%2Fdownload.aspx%3Fp%3D4495da01-db8c-4041-a7f6-7984a4f6a905)
+* [European Parliament Proceedings Parallel Corpus](https://www.statmt.org/europarl/)
+* [Jeopardy](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/)
+* [Legal Case Reports Dataset](https://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports)
+
 
 References:
+
 https://www.analyticsvidhya.com/blog/2022/01/roadmap-to-master-nlp-in-2022/
 
 https://www.linkedin.com/pulse/nlp-roadmap-machine-learning-2022-arya-soni/?trk=articles_directory
