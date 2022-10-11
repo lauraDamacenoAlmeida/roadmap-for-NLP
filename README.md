@@ -85,6 +85,10 @@ Popular libraries in python for you learn:
 * [European Parliament Proceedings Parallel Corpus](https://www.statmt.org/europarl/)
 * [Jeopardy](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/)
 * [Legal Case Reports Dataset](https://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports)
+* [SciFi Stories Text Corpus](https://www.kaggle.com/datasets/jannesklaas/scifi-stories-text-corpus)
+* [Ecommerce Text Classification](https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification)
+* [Tweets about Lord of the Rings: The Rings of Power](https://www.kaggle.com/datasets/paulk1992/tweets-about-lord-of-the-rings-the-rings-of-power)
+
 
 
 References:
