@@ -140,3 +140,5 @@ https://www.linkedin.com/pulse/nlp-roadmap-machine-learning-2022-arya-soni/?trk=
 https://www.ibm.com/cloud/learn/natural-language-processing
 
 https://monkeylearn.com/blog/nlp-benefits/
+
+https://odsc.medium.com/20-open-datasets-for-natural-language-processing-538fbfaf8e38
