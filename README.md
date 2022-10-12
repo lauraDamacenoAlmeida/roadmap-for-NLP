@@ -12,6 +12,8 @@
 5. [Best programming Language](#programming)
 6. [Roadmap](#roadmap)
 7. [Open Datasets for pratical Hands-on projects](#databases)
+8. [Books you should have](#books)
+9. [Important researchers in this field that you need to follow](#researchers)
 
 
 <a name="what"></a>
@@ -107,6 +109,26 @@ Popular libraries in python for you learn:
 * [Ecommerce Text Classification](https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification)
 * [Tweets about Lord of the Rings: The Rings of Power](https://www.kaggle.com/datasets/paulk1992/tweets-about-lord-of-the-rings-the-rings-of-power)
 
+<a name="books"></a>
+## :sunglasses: 8. Books you should have
+
+* Natural Language Processing with python
+* Pratical Natural Language Processing
+* Natural Language Processing in action
+* Text Mining with R
+* Applied Text Analysis with python
+* Natural Language Processing with PyTorch
+* Deep Learning with Text
+
+<a name="researchers"></a>
+## :woman_scientist: 9. Important researchers in this field that you need to follow
+All these researchers had more important contributions to the academic environment, and were highly cited in Google scholar.
+
+* [Diana Maynard](https://scholar.google.com/citations?hl=pt-BR&user=YZZPJ2oAAAAJ)
+* [Nigel Collier](https://scholar.google.com/citations?hl=pt-BR&user=ZMelBa0AAAAJ)
+* [Siegfried Handschuh](https://scholar.google.com/citations?hl=pt-BR&user=zl_3HgQAAAAJ)
+* [Hoifung Poon](https://scholar.google.com/citations?hl=pt-BR&user=yqqmVbkAAAAJ)
+* [Anders Søgaard](https://scholar.google.com/citations?hl=pt-BR&user=x3I4CrYAAAAJ)
 
 
 References:
