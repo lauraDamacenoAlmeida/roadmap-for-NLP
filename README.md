@@ -1,5 +1,8 @@
 # A Natural Language Processing’s roadmap for begginers :robot: :nerd_face:
 
+<img src="https://media0.giphy.com/media/13k4VSc3ngLPUY/giphy.gif?cid=ecf05e47x8xl40r6pvs1rx7ou2c6i1hh0zaas3i77f4zdp2i&rid=giphy.gif&ct=g" width=500px>
+
+
 <a id="sumario"></a>
 # :books: Summary
 1. [What is NLP?](#what)
@@ -26,7 +29,7 @@ NLP combines computational linguistics—rule-based modeling of human language�
 2. Get a more objective and accurate analysis: 
 3. Improve customer satisfaction: 
 4. Better understand your market:
-5. Get real, actionable insights: 
+5. Get actionable insights: 
 
 <a name="uses"></a>
 ## :computer: 3. Main uses of NLP
