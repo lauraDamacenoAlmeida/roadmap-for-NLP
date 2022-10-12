@@ -33,7 +33,12 @@ NLP combines computational linguisticsâ€”rule-based modeling of human languageâ€
 
 <a name="uses"></a>
 ## :computer: 3. Main uses of NLP
-
+* Email filters
+* Smart assistants
+* Search results
+* Autocomplete and autocorrect text
+* Language translation
+* Chatbots
 
 <a name="papers"></a>
 ## :page_with_curl: 4. Recommendation of papers on the use of NLP
