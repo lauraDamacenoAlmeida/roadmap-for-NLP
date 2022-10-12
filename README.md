@@ -33,7 +33,7 @@ NLP combines computational linguisticsâ€”rule-based modeling of human languageâ€
 
 
 <a name="papers"></a>
-## :mag: 4. Recommendation of papers on the use of NLP
+## :page_with_curl: 4. Recommendation of papers on the use of NLP
 
 1. [Balakrishnan, V., Khan, S., Fernandez, T., & Arabnia, H. R. (2019). Cyberbullying detection on twitter using Big Five and Dark Triad features. Personality and individual differences, 141, 252-257.](https://www.sciencedirect.com/science/article/pii/S0191886919300364?casa_token=3Q6htJpu5NUAAAAA:AGIchfOTss_lR2id911kd9Olc6-AG0TfCmvSSsCGvm6Mhhc-zZAZV3CmZCfRszteOBgnmujRDA)
 2. [Yang, X., McEwen, R., Ong, L. R., & Zihayat, M. (2020). A big data analytics framework for detecting user-level depression from social networks. International Journal of Information Management, 54, 102141.](https://www.sciencedirect.com/science/article/pii/S0268401219313325?casa_token=zAA4sd4FMZ4AAAAA:r4S6ppk5RbQKc9UaynkBIB1phgJ00tudC9V6_3J2d5LSiFsB7EW7aUiH2MDF8PQtRnfDA1h4iw)
@@ -61,12 +61,12 @@ Popular libraries in python for you learn:
 * Pattern
 
 <a name="roadmap"></a>
-## :keyboard: 6. Roadmap
+## :white_check_mark: 6. Roadmap
 
 <img src="https://github.com/lauraDamacenoAlmeida/roadmap-for-NLP/blob/main/roadmap.png" width=800px>
 
 <a name="databases"></a>
-## :keyboard: 7. Open Datasets for pratical Hands-on projects
+## :mag: 7. Open Datasets for pratical Hands-on projects
 
 ### General
 * [Kaggle](http://kaggle.com)
@@ -78,9 +78,14 @@ Popular libraries in python for you learn:
 * [Yelp Reviews](https://www.yelp.com/dataset)
 * [Dictionaries for Movies and Finance](https://github.com/nproellochs/SentimentDictionaries)
 * [OpinRank Dataset](http://kavita-ganesan.com/entity-ranking-data/#.Y0WJmS_5RmD)
+* [Amazon Reviews](https://www.kaggle.com/datasets/bittlingmayer/amazonreviews)
+* [Portuguese Tweets](https://www.kaggle.com/datasets/augustop/portuguese-tweets-for-sentiment-analysis)
+* [Financial News](https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news)
+* [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews)
+
 
 ### Text
-* [20 Newsgroups](http://qwone.com/~jason/20Newsgroups/)
+* [Rick&Morty Scripts](https://www.kaggle.com/datasets/andradaolteanu/rickmorty-scripts)
 * [The WikiQA Corpus](https://www.microsoft.com/en-us/download/details.aspx?id=52419&from=http%3A%2F%2Fresearch.microsoft.com%2Fapps%2Fmobile%2Fdownload.aspx%3Fp%3D4495da01-db8c-4041-a7f6-7984a4f6a905)
 * [European Parliament Proceedings Parallel Corpus](https://www.statmt.org/europarl/)
 * [Jeopardy](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/)
