@@ -24,12 +24,13 @@ NLP combines computational linguisticsâ€”rule-based modeling of human languageâ€
 
 <a name="why"></a>
 ## :woman_technologist: 2. Why NLP? What is the benefits?
+You have probably wondered what is the benefit of using NLP in systems, let's see a little bit about it :star_struck:
 
-1. Perform large-scale analysis:
-2. Get a more objective and accurate analysis: 
-3. Improve customer satisfaction: 
-4. Better understand your market:
-5. Get actionable insights: 
+1. Perform large-scale analysis: NLP technology allows for text analysis at scale on all manner of documents, internal systems, emails, social media data, online reviews, and more. 
+2. Get a more objective and accurate analysis
+3. Improve customer satisfaction
+4. Better understand your market
+5. Get actionable insights
 
 <a name="uses"></a>
 ## :computer: 3. Main uses of NLP
@@ -42,6 +43,8 @@ NLP combines computational linguisticsâ€”rule-based modeling of human languageâ€
 
 <a name="papers"></a>
 ## :page_with_curl: 4. Recommendation of papers on the use of NLP
+
+In addition to the examples above, I'm bringing some super cool research carried out throughout the year that used NLP for different purposes. It's really worth looking at these papers and getting inspired :wink:
 
 1. [Balakrishnan, V., Khan, S., Fernandez, T., & Arabnia, H. R. (2019). Cyberbullying detection on twitter using Big Five and Dark Triad features. Personality and individual differences, 141, 252-257.](https://www.sciencedirect.com/science/article/pii/S0191886919300364?casa_token=3Q6htJpu5NUAAAAA:AGIchfOTss_lR2id911kd9Olc6-AG0TfCmvSSsCGvm6Mhhc-zZAZV3CmZCfRszteOBgnmujRDA)
 2. [Yang, X., McEwen, R., Ong, L. R., & Zihayat, M. (2020). A big data analytics framework for detecting user-level depression from social networks. International Journal of Information Management, 54, 102141.](https://www.sciencedirect.com/science/article/pii/S0268401219313325?casa_token=zAA4sd4FMZ4AAAAA:r4S6ppk5RbQKc9UaynkBIB1phgJ00tudC9V6_3J2d5LSiFsB7EW7aUiH2MDF8PQtRnfDA1h4iw)
@@ -70,6 +73,8 @@ Popular libraries in python for you learn:
 
 <a name="roadmap"></a>
 ## :white_check_mark: 6. Roadmap
+
+*Prerequisite: It's very importat you have some knowledge in machine learning, especially supervised learning.*
 
 <img src="https://github.com/lauraDamacenoAlmeida/roadmap-for-NLP/blob/main/roadmap.png" width=800px>
 
